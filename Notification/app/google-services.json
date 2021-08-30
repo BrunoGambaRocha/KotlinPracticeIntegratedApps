@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228198226938",
+    "project_id": "notificationapp-2c1d5",
+    "storage_bucket": "notificationapp-2c1d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228198226938:android:319b8b04a3b5f7a4efe243",
+        "android_client_info": {
+          "package_name": "br.com.brunoti.cursos.dio.kotlinpractiseapplicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228198226938-bs27b066q3v2o33bd5i97fvgc1ng9k5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA55W9f9YD38-3sTYwfJwlfd8YO-7AqovQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228198226938-bs27b066q3v2o33bd5i97fvgc1ng9k5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
