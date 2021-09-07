@@ -1,4 +1,4 @@
-# Kotlin Practise Integrated Apps
+# Kotlin Practice Integrated Apps
 
 <img src="screenshot1.png"/>
 
